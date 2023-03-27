@@ -11,6 +11,7 @@ function Nav() {
         <li><a href="#contact">Menu</a></li>
         <li><a href="#contact">Reservations</a></li>
         <li><a href="#contact">Login</a></li>
+        <li><a href="#contact">Login</a></li>
       </ul>
     </nav>
   );
